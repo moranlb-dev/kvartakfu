@@ -1,0 +1,214 @@
+{
+    "posts": [
+        {
+            "thread": {
+                "uuid": "b8539ce7f36510394200060a837cc6be390cf686",
+                "url": "https://www.haaretz.com/israel-news/2024-04-11/ty-article-live/u-s-could-launch-joint-strike-with-israel-against-iran-senior-official-says/0000018e-caf9-dc93-adce-eef995f30000",
+                "site_full": "www.haaretz.com",
+                "site": "haaretz.com",
+                "site_section": "http://israel.nowlej.com",
+                "site_categories": [
+                    "media",
+                    "judaism",
+                    "religion"
+                ],
+                "section_title": "Israel NOWlej | News &amp; Views on the State of the Jews",
+                "title": "U.S. Could Launch Joint Strike With Israel Against Iran, Senior Official Says - Israel News - Haaretz.com",
+                "title_full": "U.S. Could Launch Joint Strike With Israel Against Iran, Senior Official Says - Israel News - Haaretz.com",
+                "published": "2024-04-11T00:41:00.000+03:00",
+                "replies_count": 0,
+                "participants_count": 1,
+                "site_type": "news",
+                "country": "US",
+                "main_image": "https://img.haarets.co.il/bs/0000018e-c9d4-dc14-a9de-ebdc9ee50001/50/8b/7268787040fbb1a3ae694e2dbd3a/49400.jpg?height=630&amp;width=1200",
+                "performance_score": 0,
+                "domain_rank": 1394,
+                "domain_rank_updated": "2024-04-09T13:11:13.000+03:00",
+                "reach": null,
+                "social": {
+                    "updated": "2024-04-12T18:28:10.000+03:00",
+                    "facebook": {
+                        "likes": 31,
+                        "comments": 14,
+                        "shares": 44
+                    },
+                    "gplus": {
+                        "shares": 0
+                    },
+                    "pinterest": {
+                        "shares": 0
+                    },
+                    "linkedin": {
+                        "shares": 0
+                    },
+                    "stumbledupon": {
+                        "shares": 0
+                    },
+                    "vk": {
+                        "shares": 0
+                    }
+                }
+            },
+            "uuid": "b8539ce7f36510394200060a837cc6be390cf686",
+            "url": "https://www.haaretz.com/israel-news/2024-04-11/ty-article-live/u-s-could-launch-joint-strike-with-israel-against-iran-senior-official-says/0000018e-caf9-dc93-adce-eef995f30000",
+            "ord_in_thread": 0,
+            "parent_url": null,
+            "author": "Haaretz",
+            "published": "2024-04-11T00:41:00.000+03:00",
+            "title": "U.S. Could Launch Joint Strike With Israel Against Iran, Senior Official Says - Israel News - Haaretz.com",
+            "text": "Full text is unavailable in the community version",
+            "highlightText": "Haaretz | <em>Israel</em> News <em>Israel</em>-Hamas War Day 188 | <em>Israeli</em> Army Launches Ground Offensive in Central Gaza... Credit: Hannah McKay / Reuters U.S. official: Joint American-<em>Israeli</em> attack on <em>Iran</em> possible if it attacks... IST RECAP: U.S. could launch joint strike with <em>Israel</em> against <em>Iran</em>, senior official says; Blinken tells... on <em>Iran</em> possible if it attacks <em>Israel</em> ■ 11 drones from Houthi-controlled Yemen shot down by American... against <em>Iran</em>, senior official says; Blinken tells Gallant: U.S. will stand by <em>Israel</em> IDF launches offensive... ",
+            "highlightTitle": "Could Launch Joint Strike With <em>Israel</em> Against <em>Iran</em>, Senior Official Says - <em>Israel</em> News - Haaretz.com... ",
+            "highlightThreadTitle": "Could Launch Joint Strike With <em>Israel</em> Against <em>Iran</em>, Senior Official Says - <em>Israel</em> News - Haaretz.com... ",
+            "language": "english",
+            "sentiment": "neutral",
+            "categories": [
+                "War, Conflict and Unrest",
+                "Politics",
+                "Crime, Law and Justice"
+            ],
+            "external_links": [],
+            "external_images": [],
+            "entities": {
+                "persons": [
+                    {
+                        "name": "david satterfield",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "ben samuels",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "satterfield",
+                        "sentiment": "none"
+                    }
+                ],
+                "organizations": [
+                    {
+                        "name": "israel against iran",
+                        "sentiment": "negative"
+                    },
+                    {
+                        "name": "israel news - haaretz.com",
+                        "sentiment": "negative"
+                    },
+                    {
+                        "name": "u.s. central command",
+                        "sentiment": "negative"
+                    },
+                    {
+                        "name": "centcom",
+                        "sentiment": "negative"
+                    }
+                ],
+                "locations": [
+                    {
+                        "name": "u.s.",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "gaza",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "united states",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "gulf of aden",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "yemen",
+                        "sentiment": "none"
+                    },
+                    {
+                        "name": "rafah",
+                        "sentiment": "none"
+                    }
+                ]
+            },
+            "rating": null,
+            "crawled": "2024-04-11T06:22:44.087+03:00",
+            "updated": "2024-04-11T12:58:30.692+03:00"
+        },
+        {
+            "thread": {
+                "uuid": "97792d24a2c333ff2bee8f4d8ac7a2d412a7c461",
+                "url": "https://anayemeni.net/show119739230.html",
+                "site_full": "anayemeni.net",
+                "site": "anayemeni.net",
+                "site_section": "https://anayemeni.net/rss.xml",
+                "site_categories": [
+                    "media"
+                ],
+                "section_title": "أنا يمني - كل الأخبار",
+                "title": "Israel v Iran - Is escalation inevitable?",
+                "title_full": "Israel v Iran - Is escalation inevitable?",
+                "published": "2024-04-12T04:02:00.000+03:00",
+                "replies_count": 0,
+                "participants_count": 0,
+                "site_type": "news",
+                "country": "VN",
+                "main_image": "https://e3.365dm.com/24/04/70x70/2372404110680023107_6517756.png?20240411122451",
+                "performance_score": 0,
+                "domain_rank": null,
+                "domain_rank_updated": null,
+                "reach": null,
+                "social": {
+                    "updated": "2024-04-12T09:04:02.319+03:00",
+                    "facebook": {
+                        "likes": 0,
+                        "comments": 0,
+                        "shares": 0
+                    },
+                    "gplus": {
+                        "shares": 0
+                    },
+                    "pinterest": {
+                        "shares": 0
+                    },
+                    "linkedin": {
+                        "shares": 0
+                    },
+                    "stumbledupon": {
+                        "shares": 0
+                    },
+                    "vk": {
+                        "shares": 0
+                    }
+                }
+            },
+            "uuid": "97792d24a2c333ff2bee8f4d8ac7a2d412a7c461",
+            "url": "https://anayemeni.net/show119739230.html",
+            "ord_in_thread": 0,
+            "parent_url": null,
+            "author": null,
+            "published": "2024-04-12T04:02:00.000+03:00",
+            "title": "Israel v Iran - Is escalation inevitable?",
+            "text": "Full text is unavailable in the community version",
+            "highlightText": "",
+            "highlightTitle": "<em>Israel</em> v <em>Iran</em> - Is escalation inevitable?... ",
+            "highlightThreadTitle": "<em>Israel</em> v <em>Iran</em> - Is escalation inevitable?... ",
+            "language": "arabic",
+            "sentiment": null,
+            "categories": null,
+            "external_links": [],
+            "external_images": [],
+            "entities": {
+                "persons": [],
+                "organizations": [],
+                "locations": []
+            },
+            "rating": null,
+            "crawled": "2024-04-12T09:04:02.319+03:00",
+            "updated": "2024-04-12T09:04:02.319+03:00"
+        }
+   ],
+    "totalResults": 30218,
+    "moreResultsAvailable": 30208,
+    "next": "/newsApiLite?token=ccdf7393-4791-4792-8010-d019fe1e74f9&ts=1712683313208&q=iran+israel&sort=relevancy&order=desc&from=10&ns=62.68491&ni=dc0c1c65f7ab83ca7a8436bedf82d00be3aa20fe&highlight=true&size=10",
+    "requestsLeft": 998,
+    "warnings": null
+}
